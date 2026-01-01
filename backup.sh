@@ -6,6 +6,7 @@ cd $repo_dir
 
 git pull origin main -q
 
+cp -r world_dir $repo_dir/world_backup
 # zip -r ./world_backup.zip $world_dir
 
 git add . && \
