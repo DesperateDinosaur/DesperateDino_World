@@ -9364,6 +9364,90 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-01-10 21:50:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-01-10 21:50:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-10 21:51:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2026-01-10 21:51:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-10 21:51:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-10 21:51:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-01-10 21:51:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2026-01-10 21:51:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-01-10 21:56:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-01-10 21:59:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2026-01-10 22:00:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-01-10 22:07:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-01-10 22:08:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-01-10 22:08:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2026-01-10 22:08:50 -0500"
@@ -9376,27 +9460,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-01-10 22:08:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-01-10 22:08:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2026-01-10 22:08:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2026-01-10 22:08:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-01-10 22:09:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2026-01-10 22:24:49 -0500"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2026-01-10 21:56:33 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2026-01-10 21:51:01 -0500"
     },
     "done": true
   },
@@ -9412,27 +9502,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2026-01-10 21:51:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2026-01-10 21:51:43 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-01-10 22:09:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2026-01-10 22:08:50 -0500"
     },
     "done": true
   },
@@ -9460,12 +9532,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2026-01-10 22:24:49 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-01-10 22:09:05 -0500"
@@ -9475,12 +9541,6 @@
   "minecraft:recipes/decorations/red_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-01-10 22:09:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
-    "criteria": {
-      "has_chorus_fruit": "2026-01-10 22:00:07 -0500"
     },
     "done": true
   },
@@ -9496,12 +9556,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2026-01-10 22:08:50 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-01-10 22:09:05 -0500"
@@ -9514,39 +9568,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2026-01-10 22:08:50 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-01-10 22:09:05 -0500"
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
-      "in_city": "2026-01-10 22:07:50 -0500"
+      "has_shulker_box": "2026-01-10 22:09:05 -0500"
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
-      "entered_end_gateway": "2026-01-10 21:59:04 -0500"
+      "has_purpur_block": "2026-01-10 22:24:49 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
-      "has_end_stone": "2026-01-10 21:51:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2026-01-10 22:08:29 -0500"
+      "has_purpur_block": "2026-01-10 22:24:49 -0500"
     },
     "done": true
   },
@@ -9562,57 +9604,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2026-01-10 22:08:50 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2026-01-10 22:09:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2026-01-10 21:50:47 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2026-01-10 22:24:49 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2026-01-10 21:51:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2026-01-10 21:51:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2026-01-10 22:08:27 -0500"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2026-01-10 21:50:47 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2026-01-10 22:24:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/brush_armadillo": {
+    "criteria": {
+      "brush_armadillo": "2026-01-11 15:21:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2026-01-11 15:21:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2026-01-11 15:53:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2026-01-11 15:57:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/very_very_frightening": {
+    "criteria": {
+      "struck_villager": "2026-01-11 16:10:34 -0500"
     },
     "done": true
   },
