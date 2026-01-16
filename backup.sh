@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
-repo_dir=$(pwd)
-world_dir='../minecraftServer/world/'
+repo_dir='/home/desperatedinosaur/DesperateDino_World/'
+world_dir='/home/desperatedinosaur/minecraftServer/world/'
 
 cd $repo_dir
 
