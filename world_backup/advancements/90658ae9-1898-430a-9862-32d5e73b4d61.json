@@ -16,21 +16,29 @@
       "minecraft:frozen_ocean": "2026-01-04 23:55:10 -0500",
       "minecraft:desert": "2026-01-04 02:36:49 -0500",
       "minecraft:frozen_river": "2026-01-07 01:09:40 -0500",
+      "minecraft:windswept_forest": "2026-01-12 20:44:03 -0500",
       "minecraft:ocean": "2025-12-23 22:48:03 -0500",
       "minecraft:jungle": "2025-12-26 23:02:19 -0500",
       "minecraft:cherry_grove": "2025-12-23 19:00:52 -0500",
       "minecraft:sunflower_plains": "2025-12-23 19:16:37 -0500",
+      "minecraft:birch_forest": "2026-01-12 20:37:28 -0500",
+      "minecraft:windswept_hills": "2026-01-12 20:43:39 -0500",
       "minecraft:snowy_beach": "2026-01-07 01:08:49 -0500",
+      "minecraft:bamboo_jungle": "2026-01-12 20:48:42 -0500",
       "minecraft:warm_ocean": "2026-01-04 02:34:42 -0500",
+      "minecraft:deep_lukewarm_ocean": "2026-01-12 20:51:33 -0500",
       "minecraft:flower_forest": "2025-12-23 19:20:31 -0500",
       "minecraft:savanna_plateau": "2025-12-23 20:08:16 -0500",
       "minecraft:beach": "2025-12-23 22:41:59 -0500",
+      "minecraft:dark_forest": "2026-01-12 20:38:52 -0500",
+      "minecraft:sparse_jungle": "2026-01-12 20:48:37 -0500",
       "minecraft:river": "2025-12-23 19:00:46 -0500",
       "minecraft:lukewarm_ocean": "2025-12-26 23:10:09 -0500",
       "minecraft:stony_shore": "2025-12-25 15:50:43 -0500",
       "minecraft:snowy_plains": "2026-01-07 01:10:39 -0500",
       "minecraft:dripstone_caves": "2025-12-23 23:11:59 -0500",
       "minecraft:snowy_taiga": "2026-01-07 01:08:23 -0500",
+      "minecraft:frozen_peaks": "2026-01-12 20:38:16 -0500",
       "minecraft:old_growth_birch_forest": "2025-12-23 22:42:22 -0500",
       "minecraft:deep_dark": "2025-12-26 02:44:24 -0500",
       "minecraft:grove": "2025-12-23 19:30:12 -0500",
@@ -38,7 +46,8 @@
       "minecraft:meadow": "2025-12-23 18:58:59 -0500",
       "minecraft:savanna": "2025-12-23 20:08:03 -0500",
       "minecraft:plains": "2025-12-23 18:59:01 -0500",
-      "minecraft:jagged_peaks": "2025-12-23 19:05:47 -0500"
+      "minecraft:jagged_peaks": "2025-12-23 19:05:47 -0500",
+      "minecraft:pale_garden": "2026-01-12 21:00:57 -0500"
     },
     "done": false
   },
@@ -1082,6 +1091,7 @@
       "minecraft:shulker": "2026-01-10 22:08:26 -0500",
       "minecraft:piglin": "2025-12-23 19:41:22 -0500",
       "minecraft:breeze": "2025-12-25 15:55:41 -0500",
+      "minecraft:creaking": "2026-01-12 21:12:45 -0500",
       "minecraft:silverfish": "2025-12-25 16:17:27 -0500",
       "minecraft:enderman": "2025-12-27 00:31:34 -0500",
       "minecraft:magma_cube": "2025-12-23 20:02:12 -0500",
@@ -9643,6 +9653,168 @@
   "minecraft:adventure/very_very_frightening": {
     "criteria": {
       "struck_villager": "2026-01-11 16:10:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2026-01-12 20:47:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2026-01-12 20:47:49 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-01-12 20:52:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2026-01-12 20:52:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2026-01-12 20:54:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-01-12 20:54:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_moss_carpet": {
+    "criteria": {
+      "has_pale_moss_block": "2026-01-12 21:01:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-01-12 21:02:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-01-12 21:02:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2026-01-12 21:12:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2026-01-12 21:12:32 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-01-12 21:14:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-01-12 21:14:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creaking_heart": {
+    "criteria": {
+      "has_resin_block": "2026-01-12 21:19:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_clump": {
+    "criteria": {
+      "has_resin_block": "2026-01-12 21:19:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_bricks": {
+    "criteria": {
+      "has_resin_brick": "2026-01-12 21:19:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/resin_brick_wall": {
+    "criteria": {
+      "has_resin_bricks": "2026-01-12 21:20:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs": {
+    "criteria": {
+      "has_resin_bricks": "2026-01-12 21:20:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/resin_brick_wall_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2026-01-12 21:20:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_stairs_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2026-01-12 21:20:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_resin_bricks_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2026-01-12 21:20:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_slab_from_resin_bricks_stonecutting": {
+    "criteria": {
+      "has_resin_bricks": "2026-01-12 21:20:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_brick_slab": {
+    "criteria": {
+      "has_resin_bricks": "2026-01-12 21:20:23 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2026-01-12 21:22:15 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": "2026-01-12 21:22:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2026-01-12 21:58:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2026-01-12 21:58:18 -0500"
     },
     "done": true
   },
