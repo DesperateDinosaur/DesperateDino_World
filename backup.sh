@@ -11,6 +11,6 @@ rm -r $backup_world_dir
 cp -r $world_dir $backup_world_dir
 # zip -r ./world_backup.zip $world_dir
 
-git add . && \
+git add $repo_dir && \
 git commit -q -m "$(date +"%c")" && \
 git push
