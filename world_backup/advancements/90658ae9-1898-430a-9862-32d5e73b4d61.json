@@ -1088,6 +1088,7 @@
       "minecraft:wither_skeleton": "2025-12-23 19:59:12 -0500",
       "minecraft:bogged": "2025-12-25 15:47:58 -0500",
       "minecraft:ghast": "2025-12-23 19:46:10 -0500",
+      "minecraft:ender_dragon": "2026-01-19 01:04:02 -0500",
       "minecraft:shulker": "2026-01-10 22:08:26 -0500",
       "minecraft:piglin": "2025-12-23 19:41:22 -0500",
       "minecraft:breeze": "2025-12-25 15:55:41 -0500",
@@ -9815,6 +9816,24 @@
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_redstone_ore": "2026-01-12 21:58:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-01-19 01:04:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2026-01-19 00:53:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2026-01-19 02:44:18 -0500"
     },
     "done": true
   },
