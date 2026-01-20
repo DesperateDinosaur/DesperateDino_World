@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-01-19 15:18:40 -0500",
       "minecraft:snowy_slopes": "2025-12-25 16:38:31 -0500",
       "minecraft:old_growth_pine_taiga": "2026-01-07 01:01:31 -0500",
       "minecraft:forest": "2025-12-23 19:13:49 -0500",
@@ -9819,21 +9820,27 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
-    "criteria": {
-      "killed_dragon": "2026-01-19 01:04:02 -0500"
-    },
-    "done": true
-  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2026-01-19 00:53:45 -0500"
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-01-19 01:04:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/bamboo_mosaic": {
     "criteria": {
       "has_bamboo_slab": "2026-01-19 02:44:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2026-01-19 15:59:47 -0500"
     },
     "done": true
   },
