@@ -10032,5 +10032,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-01-24 12:11:06 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 4671
 }
