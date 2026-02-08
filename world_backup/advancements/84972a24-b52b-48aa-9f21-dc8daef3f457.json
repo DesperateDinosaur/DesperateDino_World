@@ -1141,6 +1141,7 @@
       "minecraft:blaze": "2025-12-29 12:34:40 -0500",
       "minecraft:skeleton": "2025-12-21 21:29:31 -0500",
       "minecraft:zombified_piglin": "2025-12-28 16:15:23 -0500",
+      "minecraft:witch": "2026-02-07 21:54:45 -0500",
       "minecraft:wither_skeleton": "2025-12-29 12:33:56 -0500",
       "minecraft:bogged": "2026-01-17 16:24:44 -0500",
       "minecraft:ghast": "2025-12-28 22:01:27 -0500",
@@ -8348,15 +8349,57 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-02-06 21:57:53 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2026-02-06 21:59:14 -0500"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
     "criteria": {
-      "summoned": "2026-02-06 21:57:53 -0500"
+      "has_minecraft:oak_leaves": "2026-02-07 08:56:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-02-07 13:11:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-02-07 13:11:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-02-07 13:11:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-02-07 13:11:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2026-02-07 13:11:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2026-02-07 18:28:49 -0500"
     },
     "done": true
   },
