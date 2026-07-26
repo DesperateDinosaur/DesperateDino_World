@@ -8403,6 +8403,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2026-02-08 20:33:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2026-02-08 20:33:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2026-02-08 20:33:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-02-08 21:13:38 -0500"
@@ -8421,12 +8439,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_banner": {
-    "criteria": {
-      "has_green_wool": "2026-02-08 20:33:41 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-02-08 21:13:38 -0500"
@@ -8436,12 +8448,6 @@
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-02-08 21:13:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_carpet": {
-    "criteria": {
-      "has_green_wool": "2026-02-08 20:33:41 -0500"
     },
     "done": true
   },
@@ -8478,12 +8484,6 @@
   "minecraft:recipes/combat/netherite_spear_smithing": {
     "criteria": {
       "has_netherite_ingot": "2026-02-08 21:13:38 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed": {
-    "criteria": {
-      "has_green_wool": "2026-02-08 20:33:41 -0500"
     },
     "done": true
   },
